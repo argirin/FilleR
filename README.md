@@ -12,6 +12,7 @@ la partie, celui avec le plus de point remporte le match...
 
 # Usage
 
-Compiler le projet avec la commande "make". <\b>
+Compiler le projet avec la commande "make".
+
 Utiliser l'executable "./filler_vm" fourni dans le dossier ressources.
 Executer
