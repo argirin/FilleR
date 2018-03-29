@@ -10,6 +10,8 @@ avec deux joueurs que le filler prend tout son intérêt. Chaque joueur a pour b
 un maximum de pièces tout en tentant d’empêcher son adversaire de le faire. A la fin de
 la partie, celui avec le plus de point remporte le match...
 
+Sujet complet : https://github.com/argirin/FilleR/blob/master/filler.fr.pdf
+
 # Usage
 
 Compiler le projet avec la commande "make".
