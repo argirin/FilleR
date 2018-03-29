@@ -18,4 +18,6 @@ Compiler le projet avec la commande "make".
 
 Utiliser l'executable "./filler_vm" fourni dans le dossier ressources.
 
-Executer "./filler_vm -p1 "[chemin de votre joueur 1.filler]" -p2 "[chemin de votre joueur 2.filler]"
+Executer ./filler_vm -p1 "[chemin de votre joueur 1.filler]" -p2 "[chemin de votre joueur 2.filler] -f "[chemin de votre map]"
+
+Exemple : ./filler_vm -p1 players/abanlin.filler -p2 players/carli.filler -f maps/map01
