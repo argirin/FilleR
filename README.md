@@ -10,4 +10,8 @@ avec deux joueurs que le filler prend tout son intérêt. Chaque joueur a pour b
 un maximum de pièces tout en tentant d’empêcher son adversaire de le faire. A la fin de
 la partie, celui avec le plus de point remporte le match...
 
+# Usage
 
+Compiler le projet avec la commande "make".
+Utiliser l'executable "./filler_vm" fourni dans le dossier ressources.
+Executer
