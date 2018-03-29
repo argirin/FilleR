@@ -15,4 +15,5 @@ la partie, celui avec le plus de point remporte le match...
 Compiler le projet avec la commande "make".
 
 Utiliser l'executable "./filler_vm" fourni dans le dossier ressources.
-Executer
+
+Executer "./filler_vm -p1 "[chemin de votre joueur 1.filler]" -p2 "[chemin de votre joueur 2.filler]"
